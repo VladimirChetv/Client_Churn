@@ -16,7 +16,11 @@
 Проект включает в себя следующие ноутбуки:
 
 week_1_.ipynb - описательный анализ данных;
+
 week_2_make_test_train.ipynb - разделение датасета на train и hold out;
+
 Week_3_baseline.ipynb - построение baseline-решения;
+
 Week_4_kaggle.ipynb - участие в соревновании на kaggle inclass;
+
 week_5_.ipynb - эксперименты и оптимизация модели вероятностной классификации;
